@@ -53,13 +53,12 @@ Hello! I'm Surya L, a skilled **Digital Marketing Executive** specializing in **
 
 ### 1. Competitor Analysis & Customer Persona Development 🚀
 Completed a project involving Competitor Analysis and Customer Persona Development for **boAt Lifestyle**, **The Whole Truth**, and **Lenskart.com**.
-<a href="https://storage.googleapis.com/production-mycaptain-attachments/1724052089689980-Surya_L-Digital_Trailblazer.pdf" target="_blank">Certification Link</a>
 ### Key Highlights
 - Identified effective social media channels.
 - Analyzed competitors and developed detailed customer personas.
 - Gained insights to enhance brand engagement and targeting.
-
-**[Project Link](https://docs.google.com/presentation/d/1IBKkeRtDnHCai9w7FBko97VkPsr05RIRU-KpNSVooug/edit){:target="_blank"}**
+<br><a href="https://storage.googleapis.com/production-mycaptain-attachments/1724052089689980-Surya_L-Digital_Trailblazer.pdf" target="_blank">Certification Link  </a> <br>
+<a href="https://docs.google.com/presentation/d/1IBKkeRtDnHCai9w7FBko97VkPsr05RIRU-KpNSVooug/edit" target="_blank"> Project Link  </a>
 
 ### 2. Performance Marketing Campaign
 - **Description:** Developed and executed a PPC and social media marketing campaign for a staffing agency.
