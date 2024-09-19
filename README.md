@@ -92,17 +92,21 @@ Completed a project involving Competitor Analysis and Customer Persona Developme
 ## 📅 Experience
 
 ### Digital Marketing Executive - HiringHut Solutions Pvt Ltd
-- **Duration:** Oct 2023 - Present
-- **Responsibilities:**
-  - Developed and implemented content strategies for social media, email, and paid ad campaigns.
-  - Increased engagement by 50% through A/B testing and optimized campaigns.
-  - Led website development and SEO efforts using HTML, CSS, JavaScript, and WordPress.
+**Duration:** Oct 2023 - Present
+  ### **Responsibilities:**
+ - Developed SEO strategies, optimized content, and conducted keyword research to enhance organic visibility and drive traffic.
+- Identified trends and opportunities through competitive research to support business growth.
+- Led social media, email, and paid ad campaigns, achieving a 50% boost in engagement and conversions.
+- Executed and refined paid campaigns, using A/B testing and performance analysis to maximize results.
+- Crafted blogs and visual content to strengthen brand presence on social media.
+- Created user-friendly websites and improved site performance for better conversions.
 
 ### Data Associate - Amazon
-- **Duration:** Aug 2021 - Jan 2023
-- **Responsibilities:**
-  - Analyzed content flaws and ensured quality standards were met.
-  - Performed data exception analysis and reporting, achieving productivity targets.
+**Duration:** Aug 2021 - Jan 2023
+### **Responsibilities:**
+- Monitored the content outlay to defect flaws and took corrective measures to correct the process, using a tool called HMI.
+- Analyses the data as per business requirements and detects exceptions.
+- Meet predetermined and assigned productivity targets and quality standards within expected deadlines
 
 ## 📬 Contact
 
