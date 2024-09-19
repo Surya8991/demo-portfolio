@@ -101,11 +101,14 @@ Completed a project involving Competitor Analysis and Customer Persona Developme
 - Crafted blogs and visual content to strengthen brand presence on social media.
 - Created user-friendly websites and improved site performance for better conversions.
 
-### Links
+<details>
+<summary>Links</summary>
 
-[HiringHut LinkedIn Page](https://www.linkedin.com/company/hiringhut)  
-[HiringHut LinkedIn Newsletter](https://www.linkedin.com/newsletters/hiringhut-recruitment-insights-7184497243591176192/)  
-[HiringHut Website](https://hiringhut.in/)
+- [HiringHut LinkedIn Page](https://www.linkedin.com/company/hiringhut)  
+- [HiringHut LinkedIn Newsletter](https://www.linkedin.com/newsletters/hiringhut-recruitment-insights-7184497243591176192/)  
+- [HiringHut Website](https://hiringhut.in/)
+
+</details>
 
 ### Data Associate - Amazon
 **Duration:** Aug 2021 - Jan 2023
