@@ -73,10 +73,10 @@ Completed a project involving Competitor Analysis and Customer Persona Developme
 - **Outcome:** Improved user experience and page speed by 30%.
 
 ## 📜 Certifications
+- HubSpot Social Media Marketing Certification
+- Digital Marketing Pro - myCaptain ( in Progress )
 - GeeksForGeeks - Full Stack Development (MERN Stack)
 - FreeCodeCamp - JavaScript Algorithms and Data Structures
-- Google Analytics Certification
-- HubSpot Inbound Marketing Certification
 
 ## 📈 Case Studies
 
@@ -100,6 +100,12 @@ Completed a project involving Competitor Analysis and Customer Persona Developme
 - Executed and refined paid campaigns, using A/B testing and performance analysis to maximize results.
 - Crafted blogs and visual content to strengthen brand presence on social media.
 - Created user-friendly websites and improved site performance for better conversions.
+
+### Links
+
+[HiringHut LinkedIn Page](https://www.linkedin.com/company/hiringhut)  
+[HiringHut LinkedIn Newsletter](https://www.linkedin.com/newsletters/hiringhut-recruitment-insights-7184497243591176192/)  
+[HiringHut Website](https://hiringhut.in/)
 
 ### Data Associate - Amazon
 **Duration:** Aug 2021 - Jan 2023
